@@ -1,0 +1,2 @@
+Configuration,Method,Image-AUROC(%),Pixel-AUROC(%),PRO(%),Threshold,Inference Time(ms)
+A,Only Memory Bank,98.61,96.49,93.64,3.2655,28.94015

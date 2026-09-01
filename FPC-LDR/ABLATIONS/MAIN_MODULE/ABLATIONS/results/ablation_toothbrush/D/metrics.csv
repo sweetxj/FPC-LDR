@@ -1,0 +1,2 @@
+Configuration,Method,Image-AUROC(%),Pixel-AUROC(%),PRO(%),Threshold,Inference Time(ms)
+D,Adaptive Weight Fusion,99.72,93.78,91.89,1.8963,72.2831

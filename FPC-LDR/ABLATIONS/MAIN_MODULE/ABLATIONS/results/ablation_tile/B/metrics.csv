@@ -1,0 +1,2 @@
+Configuration,Method,Image-AUROC(%),Pixel-AUROC(%),PRO(%),Threshold,Inference Time(ms)
+B,Only Diffusion Reconstruction,91.02,91.5,97.97,0.7735,57.86

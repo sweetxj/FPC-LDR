@@ -1,0 +1,5 @@
+Configuration,Method,Image-AUROC(%),Pixel-AUROC(%),PRO(%),Threshold,Inference Time(ms)
+A,Only Memory Bank,89.85,90.29,93.71,2.4194,33.73076
+B,Only Diffusion Reconstruction,94.03,93.91,92.57,2.4187,67.65
+C,Fixed Weight Fusion,98.17,94.23,92.93,1.9354,32.20023
+D,Adaptive Weight Fusion,98.45,95.87,97.44,1.9172,33.00793
